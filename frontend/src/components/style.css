@@ -12,7 +12,7 @@
 }
 .header{
     grid-area: header;
-    background: beige;
+    background: brown;
     color: white;
     display: flex;
     align-items: center;
@@ -59,7 +59,7 @@
 
 .footer {
     grid-area: footer;
-    background: beige;
+    background: brown;
     color: white;
     text-align: center;
     line-height: 60px;
